@@ -61,6 +61,3 @@ This site is a static site, so it deploys directly to [Netlify](https://netlify.
 - Contact form currently shows a success state on submit but does not send data anywhere — hook it up to a form backend (e.g. Netlify Forms, Formspree) or your own API to make it functional.
 - Placeholder contact details (email/phone) in `index.html` should be replaced with real business details before going live.
 
-## License
-
-This project is for portfolio/demonstration purposes.
