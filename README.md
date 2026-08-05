@@ -2,9 +2,8 @@
 
 A responsive marketing website for **Cici Virtual Bookkeeping Services**, a virtual bookkeeping business serving Australian sole traders and small businesses. Built as a single-page site with fixed-fee package pricing, a services overview, and a lead-capture contact form.
 
-**[Live demo →](#)** *(add your Netlify URL here once deployed)*
+**[Live demo →](#)** *https://lighthearted-figolla-a98666.netlify.app/*
 
-![Site preview](preview.png) <!-- optional: add a screenshot here -->
 
 ## Features
 
